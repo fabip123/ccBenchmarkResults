@@ -500,3 +500,4 @@ Memsweep time in seconds: 4.305
 Running memsweep benchmark
 Memsweep time in seconds: 4.216
 measurement finished
+measurement finished
