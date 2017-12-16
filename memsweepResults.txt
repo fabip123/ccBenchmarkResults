@@ -172,3 +172,180 @@ Memsweep time in seconds: 3.954
 Running memsweep benchmark
 Memsweep time in seconds: 4.095
 measurement finished
+Running memsweep benchmark
+Memsweep time in seconds: 3.525
+Running memsweep benchmark
+Memsweep time in seconds: 3.932
+Running memsweep benchmark
+Memsweep time in seconds: 3.835
+Running memsweep benchmark
+Memsweep time in seconds: 3.692
+Running memsweep benchmark
+Memsweep time in seconds: 3.538
+Running memsweep benchmark
+Memsweep time in seconds: 3.588
+Running memsweep benchmark
+Memsweep time in seconds: 3.607
+Running memsweep benchmark
+Memsweep time in seconds: 3.558
+Running memsweep benchmark
+Memsweep time in seconds: 3.729
+Running memsweep benchmark
+Memsweep time in seconds: 3.731
+Running memsweep benchmark
+Memsweep time in seconds: 3.608
+Running memsweep benchmark
+Memsweep time in seconds: 3.387
+Running memsweep benchmark
+Memsweep time in seconds: 3.205
+Running memsweep benchmark
+Memsweep time in seconds: 3.288
+Running memsweep benchmark
+Memsweep time in seconds: 3.145
+Running memsweep benchmark
+Memsweep time in seconds: 3.203
+Running memsweep benchmark
+Memsweep time in seconds: 3.121
+Running memsweep benchmark
+Memsweep time in seconds: 3.236
+Running memsweep benchmark
+Memsweep time in seconds: 3.395
+Running memsweep benchmark
+Memsweep time in seconds: 3.453
+Running memsweep benchmark
+Memsweep time in seconds: 3.780
+Running memsweep benchmark
+Memsweep time in seconds: 3.751
+Running memsweep benchmark
+Memsweep time in seconds: 3.667
+Running memsweep benchmark
+Memsweep time in seconds: 3.568
+Running memsweep benchmark
+Memsweep time in seconds: 3.423
+Running memsweep benchmark
+Memsweep time in seconds: 3.354
+Running memsweep benchmark
+Memsweep time in seconds: 3.351
+Running memsweep benchmark
+Memsweep time in seconds: 3.074
+Running memsweep benchmark
+Memsweep time in seconds: 3.345
+Running memsweep benchmark
+Memsweep time in seconds: 3.168
+Running memsweep benchmark
+Memsweep time in seconds: 3.063
+Running memsweep benchmark
+Memsweep time in seconds: 3.289
+Running memsweep benchmark
+Memsweep time in seconds: 3.262
+Running memsweep benchmark
+Memsweep time in seconds: 3.137
+Running memsweep benchmark
+Memsweep time in seconds: 3.224
+Running memsweep benchmark
+Memsweep time in seconds: 3.149
+Running memsweep benchmark
+Memsweep time in seconds: 3.410
+Running memsweep benchmark
+Memsweep time in seconds: 3.611
+Running memsweep benchmark
+Memsweep time in seconds: 3.581
+Running memsweep benchmark
+Memsweep time in seconds: 3.244
+Running memsweep benchmark
+Memsweep time in seconds: 3.216
+Running memsweep benchmark
+Memsweep time in seconds: 3.176
+Running memsweep benchmark
+Memsweep time in seconds: 3.232
+Running memsweep benchmark
+Memsweep time in seconds: 3.178
+Running memsweep benchmark
+Memsweep time in seconds: 3.124
+Running memsweep benchmark
+Memsweep time in seconds: 3.170
+Running memsweep benchmark
+Memsweep time in seconds: 3.045
+Running memsweep benchmark
+Memsweep time in seconds: 3.120
+Running memsweep benchmark
+Memsweep time in seconds: 3.006
+Running memsweep benchmark
+Memsweep time in seconds: 3.134
+Running memsweep benchmark
+Memsweep time in seconds: 3.254
+Running memsweep benchmark
+Memsweep time in seconds: 3.078
+Running memsweep benchmark
+Memsweep time in seconds: 3.018
+Running memsweep benchmark
+Memsweep time in seconds: 3.196
+Running memsweep benchmark
+Memsweep time in seconds: 3.102
+Running memsweep benchmark
+Memsweep time in seconds: 3.813
+Running memsweep benchmark
+Memsweep time in seconds: 3.430
+Running memsweep benchmark
+Memsweep time in seconds: 3.294
+Running memsweep benchmark
+Memsweep time in seconds: 3.221
+Running memsweep benchmark
+Memsweep time in seconds: 3.367
+Running memsweep benchmark
+Memsweep time in seconds: 3.613
+Running memsweep benchmark
+Memsweep time in seconds: 3.928
+Running memsweep benchmark
+Memsweep time in seconds: 3.851
+Running memsweep benchmark
+Memsweep time in seconds: 3.424
+Running memsweep benchmark
+Memsweep time in seconds: 3.683
+Running memsweep benchmark
+Memsweep time in seconds: 4.015
+Running memsweep benchmark
+Memsweep time in seconds: 3.819
+Running memsweep benchmark
+Memsweep time in seconds: 3.930
+Running memsweep benchmark
+Memsweep time in seconds: 3.603
+Running memsweep benchmark
+Memsweep time in seconds: 3.718
+Running memsweep benchmark
+Memsweep time in seconds: 3.543
+Running memsweep benchmark
+Memsweep time in seconds: 3.575
+Running memsweep benchmark
+Memsweep time in seconds: 3.369
+Running memsweep benchmark
+Memsweep time in seconds: 3.299
+Running memsweep benchmark
+Memsweep time in seconds: 3.464
+Running memsweep benchmark
+Memsweep time in seconds: 3.252
+Running memsweep benchmark
+Memsweep time in seconds: 3.160
+Running memsweep benchmark
+Memsweep time in seconds: 3.193
+Running memsweep benchmark
+Memsweep time in seconds: 3.104
+Running memsweep benchmark
+Memsweep time in seconds: 3.239
+Running memsweep benchmark
+Memsweep time in seconds: 3.155
+Running memsweep benchmark
+Memsweep time in seconds: 3.269
+Running memsweep benchmark
+Memsweep time in seconds: 3.211
+Running memsweep benchmark
+Memsweep time in seconds: 3.536
+Running memsweep benchmark
+Memsweep time in seconds: 3.328
+Running memsweep benchmark
+Memsweep time in seconds: 3.133
+Running memsweep benchmark
+Memsweep time in seconds: 3.356
+Running memsweep benchmark
+Memsweep time in seconds: 3.799
+measurement finished
