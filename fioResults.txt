@@ -1,1 +1,7 @@
 fio
+test: Laying out IO file(s) (1 file(s) / 32MB)
+
+test: (groupid=0, jobs=1): err= 0: pid=10143: Sat Dec 16 14:22:08 2017
+  read : io=680873MB, bw=2269.6MB/s, iops=581009, runt=300001msec
+  write: io=226960MB, bw=774686KB/s, iops=193671, runt=300001msec
+measurement finished
