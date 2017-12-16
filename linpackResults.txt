@@ -35,3 +35,21 @@ Benchmark result: 2258944.336 KFLOPS
 Running linpack benchmark
 Benchmark result: 2292716.562 KFLOPS
 measurement finished
+Sa 16. Dez 21:39:55 UTC 2017
+Running linpack benchmark
+Benchmark result: 2244965.351 KFLOPS
+Running linpack benchmark
+Benchmark result: 2251307.438 KFLOPS
+Running linpack benchmark
+Benchmark result: 2272477.636 KFLOPS
+Running linpack benchmark
+Benchmark result: 2258948.616 KFLOPS
+Running linpack benchmark
+Benchmark result: 2265931.309 KFLOPS
+Running linpack benchmark
+Benchmark result: 2251968.772 KFLOPS
+Running linpack benchmark
+Benchmark result: 2265473.254 KFLOPS
+Running linpack benchmark
+Benchmark result: 2246707.063 KFLOPS
+measurement finished
