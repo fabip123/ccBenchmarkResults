@@ -67,3 +67,6 @@ Sun Dec 17 04:10:02 UTC 2017
 Sun Dec 17 06:05:02 UTC 2017
 measurement finished
 Sun Dec 17 06:10:02 UTC 2017
+Sun Dec 17 08:05:03 UTC 2017
+measurement finished
+Sun Dec 17 08:10:03 UTC 2017
