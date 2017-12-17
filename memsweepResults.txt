@@ -502,3 +502,4 @@ Memsweep time in seconds: 4.216
 measurement finished
 measurement finished
 measurement finished
+measurement finished
