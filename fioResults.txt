@@ -23,3 +23,9 @@ test: (groupid=0, jobs=1): err= 0: pid=1048: Sat Dec 16 22:05:03 2017
   read : io=672860MB, bw=2242.9MB/s, iops=574171, runt=300001msec
   write: io=224292MB, bw=765581KB/s, iops=191395, runt=300001msec
 measurement finished
+test: Laying out IO file(s) (1 file(s) / 32MB)
+
+test: (groupid=0, jobs=1): err= 0: pid=30543: Sun Dec 17 00:05:02 2017
+  read : io=666643MB, bw=2222.2MB/s, iops=568866, runt=300001msec
+  write: io=222220MB, bw=758509KB/s, iops=189627, runt=300001msec
+measurement finished
