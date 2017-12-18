@@ -345,3 +345,25 @@ Run status group 0 (all jobs):
 Disk stats (read/write):
   xvda: ios=6157/96699, merge=0/132, ticks=1376/2794144, in_queue=2795516, util=31.43%
 measurement finished
+test: (g=0): rw=randrw, bs=4K-4K/4K-4K/4K-4K, ioengine=sync, iodepth=1
+fio-2.2.10
+Starting 1 process
+test: Laying out IO file(s) (1 file(s) / 32MB)
+
+test: (groupid=0, jobs=1): err= 0: pid=12686: Mon Dec 18 00:05:04 2017
+  read : io=718172KB, bw=2393.7KB/s, iops=598, runt=300034msec
+  write: io=241308KB, bw=823571B/s, iops=201, runt=300034msec
+  cpu          : usr=0.27%, sys=0.94%, ctx=176061, majf=0, minf=9
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued    : total=r=179543/w=60327/d=0, short=r=0/w=0/d=0, drop=r=0/w=0/d=0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: io=718172KB, aggrb=2393KB/s, minb=2393KB/s, maxb=2393KB/s, mint=300034msec, maxt=300034msec
+  WRITE: io=241308KB, aggrb=804KB/s, minb=804KB/s, maxb=804KB/s, mint=300034msec, maxt=300034msec
+
+Disk stats (read/write):
+  xvda: ios=282501/138250, merge=0/838, ticks=481988/4387964, in_queue=4869612, util=99.84%
+measurement finished

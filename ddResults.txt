@@ -1620,3 +1620,9 @@ Sun Dec 17 23:55:01 UTC 2017
 268435456 bytes (268 MB, 256 MiB) copied, 4.18747 s, 64.1 MB/s
 268435456 bytes (268 MB, 256 MiB) copied, 4.1872 s, 64.1 MB/s
 268435456 bytes (268 MB, 256 MiB) copied, 4.19098 s, 64.1 MB/s
+268435456 bytes (268 MB, 256 MiB) copied, 4.19075 s, 64.1 MB/s
+268435456 bytes (268 MB, 256 MiB) copied, 4.18739 s, 64.1 MB/s
+268435456 bytes (268 MB, 256 MiB) copied, 4.18714 s, 64.1 MB/s
+268435456 bytes (268 MB, 256 MiB) copied, 4.18692 s, 64.1 MB/s
+268435456 bytes (268 MB, 256 MiB) copied, 4.191 s, 64.1 MB/s
+measurement finished
