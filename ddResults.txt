@@ -1996,3 +1996,4 @@ Mon Dec 18 04:55:01 UTC 2017
 268435456 bytes (268 MB, 256 MiB) copied, 4.18772 s, 64.1 MB/s
 268435456 bytes (268 MB, 256 MiB) copied, 4.1937 s, 64.0 MB/s
 measurement finished
+Mon Dec 18 05:55:01 UTC 2017
