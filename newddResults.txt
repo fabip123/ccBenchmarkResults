@@ -1029,3 +1029,467 @@ writing
 reading
 268435456 bytes (268 MB, 256 MiB) copied, 3.20362 s, 83.8 MB/s
 measurement finished
+Mon Dec 18 00:40:01 UTC 2017
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26747 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19594 s, 84.0 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26644 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20216 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26651 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.2008 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26672 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20041 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26744 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20099 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26698 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20214 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26705 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19948 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26719 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20224 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26722 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20156 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26727 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20082 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26633 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20068 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26639 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19839 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26797 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20141 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26737 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.2038 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26807 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19895 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26764 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20264 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26798 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20239 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26732 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20298 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26757 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19998 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26658 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.202 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.267 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20226 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26734 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20449 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26887 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20174 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26708 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20087 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26832 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20287 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.267 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20211 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26827 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20098 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26656 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19901 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.41597 s, 78.6 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20351 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26806 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20311 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26722 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20195 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26704 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20116 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26727 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20104 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26819 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.2026 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26619 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20194 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26845 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20168 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2665 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20147 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26637 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20273 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26626 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20371 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26595 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20322 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2675 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20224 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26695 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20237 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.31044 s, 81.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20146 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26702 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20293 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26781 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20348 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26705 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20348 s, 83.8 MB/s
+measurement finished
+Mon Dec 18 00:50:01 UTC 2017
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26768 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.2035 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2665 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20015 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2673 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20071 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26817 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20257 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2656 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20201 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26524 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20073 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26742 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20077 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26548 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20166 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26559 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20144 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26627 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19819 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26689 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20082 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26739 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20366 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26691 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20226 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26759 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19631 s, 84.0 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26594 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.2018 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26688 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20132 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2673 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20069 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26696 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20026 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26708 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19915 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26649 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19821 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26722 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20243 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26681 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20278 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26615 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20019 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2674 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19943 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.5666 s, 75.3 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20063 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26693 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20367 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26821 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20175 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26707 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19961 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26736 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20311 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26851 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20103 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2662 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19699 s, 84.0 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26667 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20017 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26723 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19667 s, 84.0 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26752 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19862 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26676 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19828 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26668 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20094 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26741 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20129 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26685 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20131 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26644 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20044 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26769 s, 82.1 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20184 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.2665 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20272 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26713 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20106 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26523 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.19835 s, 83.9 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26727 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20182 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26723 s, 82.2 MB/s
+reading
+268435456 bytes (268 MB, 256 MiB) copied, 3.20311 s, 83.8 MB/s
+dd-measurement
+writing
+268435456 bytes (268 MB, 256 MiB) copied, 3.26597 s, 82.2 MB/s
+reading
+185073664 bytes (185 MB, 176 MiB) copied, 1.90385 s, 97.2 MB/s
+measurement finished
